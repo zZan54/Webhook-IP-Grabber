@@ -1,5 +1,5 @@
 # Webhook-IP-Grabber
-Please use this tool for Educational Purposes only
+* Please use this tool for Educational Purposes only
 
 ## Install
 
